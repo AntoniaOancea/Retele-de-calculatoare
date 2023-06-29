@@ -1,0 +1,230 @@
+Destination address:8.8.8.8
+IP:192.168.101.1, Not Found in Database
+IP:10.0.0.1, Not Found in Database
+IP:10.30.5.65, Not Found in Database
+IP:10.220.138.248, Not Found in Database
+IP:10.220.156.5, Not Found in Database
+('209.85.168.182', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('74.125.242.241', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('216.239.35.251', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('8.8.8.8', (-122.083352, 37.42301), 'Mountain View', 'California', 'US')
+--------------------------------------------------------------------------
+Destination address:google.com
+IP:192.168.101.1, Not Found in Database
+IP:10.0.0.1, Not Found in Database
+IP:10.30.5.65, Not Found in Database
+IP:10.220.138.248, Not Found in Database
+IP:10.220.153.20, Not Found in Database
+('72.14.216.212', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+ttl=7
+('216.239.35.184', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('142.251.65.221', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('142.250.201.206', (5.3861, 43.2951), 'Marseille', "Provence-Alpes-Côte d'Azur", 'FR')
+--------------------------------------------------------------------------
+Destination address:facebook.com
+IP:192.168.100.1, Not Found in Database
+IP:10.0.0.1, Not Found in Database
+IP:172.19.212.209, Not Found in Database
+IP:10.220.188.244, Not Found in Database
+IP:10.220.187.200, Not Found in Database
+('157.240.83.162', (-84.3137, 33.7468), 'Atlanta', 'Georgia', 'US')
+('31.13.28.168', (-0.0955, 51.5095), 'London', 'England', 'GB')
+('157.240.43.11', (8.6895, 50.1273), 'Frankfurt am Main', 'Hesse', 'DE')
+('173.252.67.53', (-79.3877, 43.7012), 'Toronto', 'Ontario', 'CA')
+('157.240.251.35', (8.6843, 50.1188), 'Frankfurt am Main', 'Hesse', 'DE')
+--------------------------------------------------------------------------
+Destination address:www.taobao.cn
+IP:192.168.100.1, Not Found in Database
+IP:10.0.0.1, Not Found in Database
+IP:172.19.212.209, Not Found in Database
+IP:10.220.188.244, Not Found in Database
+IP:10.220.155.48, Not Found in Database
+('87.245.243.186', (37.6171, 55.7483), 'Moscow', 'Moscow', 'RU')
+('87.245.233.159', (-0.0955, 51.5095), 'London', 'England', 'GB')
+('139.45.199.194', (4.8975, 52.3759), 'Amsterdam', 'North Holland', 'NL')
+ttl=9
+('47.246.46.232', (9.1922, 45.4722), 'Milan', 'Lombardy', 'IT')
+--------------------------------------------------------------------------
+Destination address:www.woolworths.co.za
+IP:192.168.100.1, Not Found in Database
+IP:10.0.0.1, Not Found in Database
+IP:172.19.212.209, Not Found in Database
+IP:10.220.188.244, Not Found in Database
+IP:10.220.187.205, Not Found in Database
+ttl=6
+ttl=7
+('168.209.6.10', (18.4129, -33.914), 'Cape Town', 'Western Cape', 'ZA')
+('196.38.169.101', (18.4129, -33.914), 'Cape Town', 'Western Cape', 'ZA')
+('196.38.121.89', (28.168, -25.8775), 'Centurion', 'Gauteng', 'ZA')
+('196.38.121.90', (28.168, -25.8775), 'Centurion', 'Gauteng', 'ZA')
+ttl=12
+ttl=13
+ttl=14
+ttl=15
+ttl=16
+ttl=17
+ttl=18
+ttl=19
+ttl=20
+Couldn't reach destination
+--------------------------------------------------------------------------
+Destination address:google.com
+IP:192.168.100.1, Not Found in Database
+IP:10.0.0.1, Not Found in Database
+IP:172.19.212.209, Not Found in Database
+IP:10.220.188.244, Not Found in Database
+IP:10.220.178.148, Not Found in Database
+('72.14.216.212', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+ttl=7
+('142.251.228.30', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('209.85.244.145', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('142.251.208.110', (6.5765, 53.2157), 'Groningen', 'Groningen', 'NL')
+--------------------------------------------------------------------------
+Destination address:8.8.8.8
+IP:192.168.100.1, Not Found in Database
+IP:10.0.0.1, Not Found in Database
+IP:10.28.24.65, Not Found in Database
+IP:10.220.188.244, Not Found in Database
+IP:10.220.153.20, Not Found in Database
+('209.85.168.182', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('74.125.242.225', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('142.251.228.23', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('8.8.8.8', (-122.083352, 37.42301), 'Mountain View', 'California', 'US')
+--------------------------------------------------------------------------
+Destination address:8.8.8.8
+IP:192.168.1.1, Not Found in Database
+IP:192.168.100.1, Not Found in Database
+IP:10.0.0.1, Not Found in Database
+IP:10.28.24.65, Not Found in Database
+IP:10.220.188.244, Not Found in Database
+IP:10.220.153.18, Not Found in Database
+('209.85.168.182', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('74.125.242.241', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('216.239.35.251', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('8.8.8.8', (-122.083352, 37.42301), 'Mountain View', 'California', 'US')
+--------------------------------------------------------------------------
+Destination address:8.8.8.8
+IP:192.168.1.1, Not Found in Database
+IP:192.168.100.1, Not Found in Database
+IP:10.0.0.1, Not Found in Database
+IP:10.28.24.65, Not Found in Database
+IP:10.220.188.244, Not Found in Database
+IP:10.220.178.148, Not Found in Database
+('209.85.168.182', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('74.125.242.225', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('142.251.65.217', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('8.8.8.8', (-122.083352, 37.42301), 'Mountain View', 'California', 'US')
+--------------------------------------------------------------------------
+Destination address:8.8.8.8
+IP:192.168.1.1, Not Found in Database
+IP:192.168.100.1, Not Found in Database
+IP:10.0.0.1, Not Found in Database
+IP:10.28.24.65, Not Found in Database
+IP:10.220.188.244, Not Found in Database
+IP:10.220.177.110, Not Found in Database
+('72.14.216.212', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+ttl=8
+('8.8.8.8', (-122.083352, 37.42301), 'Mountain View', 'California', 'US')
+--------------------------------------------------------------------------
+Destination address:8.8.8.8
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7fe534042590>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='ipapi.co', port=443): Max retries exceeded with url: /192.168.1.1/json/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe534042590>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/selena/traceroute.py", line 49, in traceroute
+    target_loc = getTargetLoc(ip_addr)
+  File "/home/selena/traceroute.py", line 10, in getTargetLoc
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='ipapi.co', port=443): Max retries exceeded with url: /192.168.1.1/json/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe534042590>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+--------------------------------------------------------------------------
+Destination address:8.8.8.8
+IP:192.168.1.1, Not Found in Database
+IP:192.168.100.1, Not Found in Database
+IP:10.0.0.1, Not Found in Database
+IP:10.28.24.65, Not Found in Database
+IP:10.220.188.244, Not Found in Database
+IP:10.220.156.5, Not Found in Database
+('72.14.216.212', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+ttl=8
+('8.8.8.8', (-122.083352, 37.42301), 'Mountain View', 'California', 'US')
+--------------------------------------------------------------------------
+Destination address:8.8.8.8
+IP:192.168.1.1, Not Found in Database
+IP:10.0.0.1, Not Found in Database
+IP:172.19.212.225, Not Found in Database
+IP:10.220.188.208, Not Found in Database
+IP:10.220.178.148, Not Found in Database
+('72.14.216.212', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+ttl=7
+('209.85.255.242', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('142.251.65.217', (-122.0748, 37.4043), 'Mountain View', 'California', 'US')
+('8.8.8.8', (-122.083352, 37.42301), 'Mountain View', 'California', 'US')
+--------------------------------------------------------------------------
+Destination address:www.taobao.cn
+IP:192.168.1.1, Not Found in Database
+IP:192.168.100.1, Not Found in Database
+IP:10.0.0.1, Not Found in Database
+IP:10.28.24.65, Not Found in Database
+IP:10.220.188.244, Not Found in Database
+IP:10.220.155.48, Not Found in Database
+('87.245.243.186', (37.6171, 55.7483), 'Moscow', 'Moscow', 'RU')
+('87.245.233.159', (139.753595, 35.694003), 'Chiyoda', 'Tokyo', 'JP')
+ttl=9
+ttl=10
+ttl=11
+ttl=12
+ttl=13
+ttl=14
+ttl=15
+ttl=16
+ttl=17
+ttl=18
+ttl=19
+ttl=20
+Couldn't reach destination
+--------------------------------------------------------------------------
